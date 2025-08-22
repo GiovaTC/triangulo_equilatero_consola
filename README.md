@@ -56,13 +56,13 @@ class Program
     }
 }
 ✅ Ejemplo de salida (Altura = 5)
-markdown
-Copiar código
+
     *
    ***
   *****
  *******
 *********
+
 🛠️ Personalización
 Si deseas un triángulo hueco, solo debes modificar la lógica que imprime los asteriscos.
 
